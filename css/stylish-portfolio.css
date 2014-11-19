@@ -311,33 +311,107 @@ hr.small {
 /* Understandd */
 
 .understand {
-    padding: 50px 0;
+    padding: 100px 0;
     width: 100%;
     height: 100%;
+    background: url(../img/TE-ENTENDEMOS.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    /*background-color: rgba(54, 25, 25, 0.7);*/
+}
+
+.understand h2 {
+    font-size: 5em;
+    font-weight: bold;
+    color: white;
+}
+
+.understand p {
+    color: white;
+    font-size: 2.5em;
+    margin-top: 60px
 }
 
 /* Hand */
 
 .hand {
-    padding: 50px 0;
+    position: relative;
+    padding: 100px 0;
     width: 100%;
     height: 100%;
 }
 
+.hand h2 {
+    font-size: 5em;
+    font-weight: bold;
+    color: #33A2D5;
+}
+
+.hand p {
+    color: #565656;
+    font-size: 2.5em;
+    margin-top: 60px
+}
+
+.hand figure {
+    position: absolute;
+    right: 0px;
+    bottom: 0;
+    overflow: hidden;
+}
+
+.hand img {
+    width: 690px;
+    position: relative;
+    right: -85px;
+}
+
+
 /* Guide */
 
 .guide {
-    padding: 50px 0;
+    padding: 100px 0;
     width: 100%;
     height: 100%;
+    background: url(../img/OBJETIVOS.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.guide h2 {
+    font-size: 5em;
+    font-weight: bold;
+    color: white;
+}
+
+.guide p {
+    color: white;
+    font-size: 2.5em;
+    margin-top: 60px;
+    font-weight: lighter;
 }
 
 /* Work */
 
 .work {
-    padding: 50px 0;
+    padding: 100px 0;
     width: 100%;
     height: 100%;
+    background: url(../img/FOTO_PARQUE.png) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.work h4 {
+    color: white;
+    font-size: 2.5em;
+    margin-top: 60px;
 }
 
 .service-item {
