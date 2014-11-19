@@ -398,6 +398,7 @@ hr.small {
 /* Work */
 
 .work {
+    position: relative;
     padding: 100px 0;
     width: 100%;
     height: 100%;
@@ -425,6 +426,11 @@ hr.small {
     font-size: 1.5em;
     line-height: 1.33;
     width: 244px;
+}
+
+.work .My-center-Position {
+    position: absolute;
+    top: 50%;
 }
 
 .service-item {
@@ -488,5 +494,18 @@ hr.small {
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 60px 0;
+    background-color: #33A2D5;
+}
+
+footer p {
+    color: white;
+    font-size: 0.8em;
+    font-weight: lighter;
+}
+
+footer a{
+    color: white;
+    font-size: 2em;
+    font-weight: lighter;
 }

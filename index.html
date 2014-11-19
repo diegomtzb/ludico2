@@ -33,7 +33,7 @@
 <body>
 
     <!-- Navigation -->
-    <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
+    <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i> </a>
     <nav id="sidebar-wrapper">
         <ul class="sidebar-nav">
             <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
@@ -216,11 +216,13 @@
                     </h4>
                 </div>
 
-                <div class="col-sm-6">
-                    <a href="portfolio.html" class="btn btn-mybtn btn-mylg">Nuestro Trabajo</a>
-                </div>
-                <div class="col-sm-6">
-                    <a href="#" class="btn btn-mybtn btn-mylg">Contáctanos</a>
+                <div class="col-sm-12 My-center-Position">
+                    <div class="col-sm-6">
+                        <a href="portfolio.html" class="btn btn-mybtn btn-mylg">Nuestro Trabajo</a>
+                    </div>
+                    <div class="col-sm-6">
+                        <a href="#" class="btn btn-mybtn btn-mylg">Contáctanos</a>
+                    </div>
                 </div>
             </div>
             <!-- /.row -->
@@ -234,8 +236,8 @@
     <footer>
         <div class="container">
             <div class="row">
-                <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <p class="text-muted col-md-6">© 2000-2014 Digital Telepathy. All rights reserved. Privacy Policy</p>
+                <div class="col-lg-12">
+                    <p class="col-md-6">© 2000-2014 Digital Telepathy. All rights reserved. Privacy Policy</p>
                     <h4 class="col-sm-3"><a href="#">@ludicoco</a></h4>
                     <h4 class="col-sm-3"><a href="#">contacto</a></h4>
                 </div>
@@ -279,6 +281,37 @@
             }
         });
     });
+
+    // Scrolls when the users scrolls
+
+    $(function(){
+        //last scroll will always save the current scroll position value
+        var CurrentScroll = 0;
+
+        $(window).scroll(function(event){
+            var NextScroll = $(this).scrollTop();
+
+            if (NextScroll > CurrentScroll){
+                //write the codes related to down-ward scrolling here
+            }
+            else {
+                //write the codes related to upward-scrolling here
+            }
+            //Updates current scroll position
+            CurrentScroll = NextScroll;
+        });
+    });
+
+    /*
+    $( window ).scroll(function() {
+        //var target = $(this.hash);
+        var id = "work";
+        $('html,body').animate({
+            //scrollTop: target.offset().top
+            scrollTop: $("#"+id).offset().top
+        }, 1000);
+    });*/
+
     </script>
 
 </body>
