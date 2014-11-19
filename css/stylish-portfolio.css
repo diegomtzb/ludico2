@@ -414,6 +414,19 @@ hr.small {
     margin-top: 60px;
 }
 
+.work .btn-mybtn {
+    color: white;
+}
+
+.work .btn-mylg {
+    margin: auto;
+    display: block;
+    padding: 0.8em 0;
+    font-size: 1.5em;
+    line-height: 1.33;
+    width: 244px;
+}
+
 .service-item {
     margin-bottom: 30px;
 }
