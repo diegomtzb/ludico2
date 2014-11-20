@@ -429,8 +429,13 @@ hr.small {
 }
 
 .work .My-center-Position {
-    position: absolute;
-    top: 50%;
+    overflow: hidden;
+    margin: auto;
+    padding-top: 8em;
+}
+
+.work .myContainer{
+    width: 80%;
 }
 
 .service-item {
@@ -508,4 +513,9 @@ footer a{
     color: white;
     font-size: 2em;
     font-weight: lighter;
+}
+
+footer h4{
+    font-size: 18px !important;
+    margin-top: 10px !important;
 }
