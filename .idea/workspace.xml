@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="300" column="39" selection-start="11445" selection-end="11445" vertical-scroll-proportion="0.5" vertical-offset="4794" max-vertical-offset="5525">
+            <state line="366" column="17" selection-start="13573" selection-end="13573" vertical-scroll-proportion="0.2777778" vertical-offset="6052" max-vertical-offset="7038">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="portfolio.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="13" selection-start="1807" selection-end="1807" vertical-scroll-proportion="-0.0" vertical-offset="901" max-vertical-offset="3162">
+            <state line="53" column="13" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="3162">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="stylish-portfolio.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="510" column="1" selection-start="8036" selection-end="8036" vertical-scroll-proportion="-20.115385" vertical-offset="8147" max-vertical-offset="8772">
+            <state line="510" column="1" selection-start="8036" selection-end="8036" vertical-scroll-proportion="0.0" vertical-offset="8147" max-vertical-offset="8772">
               <folding />
             </state>
           </provider>
@@ -103,6 +103,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -123,7 +124,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,16 +178,16 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293944" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -207,6 +207,27 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="300" column="39" selection-start="11445" selection-end="11445" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="13" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="3162">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="510" column="1" selection-start="8036" selection-end="8036" vertical-scroll-proportion="0.0" vertical-offset="8147" max-vertical-offset="8772">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="96" column="31" selection-start="3477" selection-end="3477" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4794">
@@ -249,14 +270,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="510" column="1" selection-start="8036" selection-end="8036" vertical-scroll-proportion="-20.115385" vertical-offset="8147" max-vertical-offset="8772">
+        <state line="510" column="1" selection-start="8036" selection-end="8036" vertical-scroll-proportion="0.0" vertical-offset="8147" max-vertical-offset="8772">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1156" column="7" selection-start="17347" selection-end="17347" vertical-scroll-proportion="0.33333334" vertical-offset="19435" max-vertical-offset="64821">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="300" column="39" selection-start="11445" selection-end="11445" vertical-scroll-proportion="0.5" vertical-offset="4794" max-vertical-offset="5525">
+        <state line="366" column="17" selection-start="13573" selection-end="13573" vertical-scroll-proportion="0.2777778" vertical-offset="6052" max-vertical-offset="7038">
           <folding />
         </state>
       </provider>

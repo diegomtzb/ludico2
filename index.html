@@ -52,11 +52,33 @@
             <li>
                 <a href="#contact">Contacto</a>
             </li>
+
+            <li>
+                <a href="#top">Top</a>
+            </li>
+            <li>
+                <a href="#about">About</a>
+            </li>
+            <li>
+                <a href="#services">Services</a>
+            </li>
+            <li>
+                <a href="#understand">Understand</a>
+            </li>
+            <li>
+                <a href="#hand">Hand</a>
+            </li>
+            <li>
+                <a href="#guide">Guide</a>
+            </li>
+            <li>
+                <a href="#work">Work</a>
+            </li>
         </ul>
     </nav>
 
     <!-- Header -->
-    <header id="top" class="header">
+    <header id="top" class="header nextScroll">
         <img src="img/logo.png"/>
         <div class="intro">
             <h3>Brindamos <span>valor</span></h3>
@@ -68,7 +90,7 @@
     </header>
 
     <!-- About -->
-    <section id="about" class="about">
+    <section id="about" class="about nextScroll">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 v-wrap">
@@ -91,7 +113,7 @@
 
     <!-- Services -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
-    <section id="services" class="services bg-primary">
+    <section id="services" class="services bg-primary nextScroll">
         <div class="content">
             <div class="container">
                 <div class="row">
@@ -146,7 +168,7 @@
     </section>
 
     <!-- Understand -->
-    <section id="understand" class="understand">
+    <section id="understand" class="understand nextScroll">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -166,7 +188,7 @@
     </section>
 
     <!-- Hand -->
-    <section id="hand" class="hand">
+    <section id="hand" class="hand nextScroll">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -188,7 +210,7 @@
     </section>
 
     <!-- Guide -->
-    <section id="guide" class="guide">
+    <section id="guide" class="guide nextScroll">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -207,7 +229,7 @@
     </section>
 
     <!-- Work -->
-    <section id="work" class="work">
+    <section id="work" class="work nextScroll">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -265,34 +287,111 @@
         $("#sidebar-wrapper").toggleClass("active");
     });
 
-    // Scrolls to the selected menu item on the page
-    $(function() {
-        $('a[href*=#]:not([href=#])').click(function() {
-            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
 
+
+    $(function(){
+
+        var flag = 0;
+
+        //last scroll will always save the current scroll position value
+        var CurrentScroll = 0;
+
+        var top = $("#top").offset().top;
+        var about = $("#about").offset().top;
+        var services = $("#services").offset().top;
+        var understand = $("#understand").offset().top;
+        var hand = $("#hand").offset().top;
+        var guide = $("#guide").offset().top;
+        var work = $("#work").offset().top;
+
+
+        // Scrolls to the selected menu item on the page
+        $('a[href*=#]:not([href=#])').click(function() {
+
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
                 var target = $(this.hash);
                 target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
                 if (target.length) {
                     $('html,body').animate({
                         scrollTop: target.offset().top
                     }, 1000);
+                    flag = 0;
                     return false;
                 }
             }
         });
-    });
 
-    // Scrolls when the users scrolls
 
-    $(function(){
-        //last scroll will always save the current scroll position value
-        var CurrentScroll = 0;
 
+        // Scrolls when the users scrolls
         $(window).scroll(function(event){
             var NextScroll = $(this).scrollTop();
 
+            /*
+            var id = "#";
+            var idNext = "#";
+            if (location.hash==""){
+                id = "#top";
+            } else {
+                id = location.hash;
+            }
+
+            var target = $(id).next();
+            idNext = target.next().attr('id');
+            */
+
+
+
             if (NextScroll > CurrentScroll){
                 //write the codes related to down-ward scrolling here
+
+                var idNext = "#";
+
+                if (NextScroll > top && NextScroll <= about){
+                    //Current section = top
+                    idNext = $("#about");
+                } else if (NextScroll > about && NextScroll <= services){
+                    //Current section = about
+                    idNext = $("#services");
+                } else if (NextScroll > services && NextScroll <= understand){
+                    //Current section = services
+                    idNext = $("#understand");
+                } else if (NextScroll > understand && NextScroll <= hand){
+                    //Current section = understand
+                } else if (NextScroll > hand && NextScroll <= guide){
+                    //Current section = hand
+                } else if (NextScroll > guide && NextScroll <= work){
+                    //Current section = guide
+                } else if (NextScroll > guide && NextScroll <= work){
+                    //Current section = work
+                }
+
+                var target = $(idNext);
+                var targetId = "#" + target.attr('id');
+
+                $('a[href$="' + targetId + '"]').click();
+
+
+
+
+                /*if (flag == 0){
+                    flag = 1;
+                    var id = location.hash;
+                    var target = $(id).next();
+                    $('a[href$="#" + target.attr]').click();
+                }*/
+
+                //$('a[href$="' + targetId + '"]').click();
+
+
+                /*$('html,body').animate({
+                    scrollTop: target.offset().top
+                    //scrollTop: $("#"+id).offset().top
+                }, 1000);
+                //location.hash = idNext;
+                return false;
+                */
+
             }
             else {
                 //write the codes related to upward-scrolling here
@@ -301,16 +400,6 @@
             CurrentScroll = NextScroll;
         });
     });
-
-    /*
-    $( window ).scroll(function() {
-        //var target = $(this.hash);
-        var id = "work";
-        $('html,body').animate({
-            //scrollTop: target.offset().top
-            scrollTop: $("#"+id).offset().top
-        }, 1000);
-    });*/
 
     </script>
 
