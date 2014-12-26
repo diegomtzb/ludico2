@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="377" column="18" selection-start="13771" selection-end="13771" vertical-scroll-proportion="-10.6470585" vertical-offset="5866" max-vertical-offset="7157">
+            <state line="130" column="51" selection-start="4585" selection-end="4585" vertical-scroll-proportion="0.0" vertical-offset="1556" max-vertical-offset="7157">
               <folding />
             </state>
           </provider>
@@ -35,10 +35,8 @@
       <file leaf-file-name="temp.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/temp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="248" column="50" selection-start="10355" selection-end="10355" vertical-scroll-proportion="-14.192307" vertical-offset="3847" max-vertical-offset="7293">
-              <folding>
-                <element signature="n#style#0;n#footer#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="248" column="50" selection-start="10355" selection-end="10355" vertical-scroll-proportion="0.0" vertical-offset="4216" max-vertical-offset="7293">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -46,7 +44,7 @@
       <file leaf-file-name="stylish-portfolio.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="433" column="21" selection-start="7078" selection-end="7078" vertical-scroll-proportion="0.6493656" vertical-offset="6798" max-vertical-offset="8942">
+            <state line="196" column="1" selection-start="3361" selection-end="3361" vertical-scroll-proportion="0.2926009" vertical-offset="3071" max-vertical-offset="8942">
               <folding />
             </state>
           </provider>
@@ -64,10 +62,8 @@
       <file leaf-file-name="jquery.onepage-scroll.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/lib/jquery.onepage-scroll.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7327">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="17" column="0" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="7327">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,7 +71,7 @@
       <file leaf-file-name="portfolio.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="13" selection-start="1807" selection-end="1807" vertical-scroll-proportion="-0.0" vertical-offset="901" max-vertical-offset="3162">
+            <state line="53" column="13" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="3162">
               <folding />
             </state>
           </provider>
@@ -246,6 +242,216 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="51" selection-start="4585" selection-end="4585" vertical-scroll-proportion="0.0" vertical-offset="1556" max-vertical-offset="7157">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="248" column="50" selection-start="10355" selection-end="10355" vertical-scroll-proportion="0.0" vertical-offset="4216" max-vertical-offset="7293">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="245" column="0" selection-start="4064" selection-end="4142" vertical-scroll-proportion="0.0" vertical-offset="3775" max-vertical-offset="8942">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/onepage-scroll.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="1" selection-start="1841" selection-end="1841" vertical-scroll-proportion="0.0" vertical-offset="740" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/jquery.onepage-scroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="7327">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="13" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="3162">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="51" selection-start="4585" selection-end="4585" vertical-scroll-proportion="0.0" vertical-offset="1556" max-vertical-offset="7157">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="248" column="50" selection-start="10355" selection-end="10355" vertical-scroll-proportion="0.0" vertical-offset="4216" max-vertical-offset="7293">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="433" column="21" selection-start="7078" selection-end="7078" vertical-scroll-proportion="0.0" vertical-offset="6009" max-vertical-offset="8942">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/onepage-scroll.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="1" selection-start="1841" selection-end="1841" vertical-scroll-proportion="0.0" vertical-offset="740" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/jquery.onepage-scroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="7327">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="13" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="3162">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="14" selection-start="2862" selection-end="3749" vertical-scroll-proportion="0.0" vertical-offset="1556" max-vertical-offset="7157">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="248" column="50" selection-start="10355" selection-end="10355" vertical-scroll-proportion="0.0" vertical-offset="3847" max-vertical-offset="7293">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="433" column="21" selection-start="7078" selection-end="7078" vertical-scroll-proportion="0.0" vertical-offset="6009" max-vertical-offset="8942">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/onepage-scroll.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="1" selection-start="1841" selection-end="1841" vertical-scroll-proportion="0.0" vertical-offset="740" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/jquery.onepage-scroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="7327">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="13" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="3162">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="270" column="4" selection-start="10361" selection-end="10397" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7157">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="248" column="50" selection-start="10355" selection-end="10355" vertical-scroll-proportion="0.0" vertical-offset="3847" max-vertical-offset="7293">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="433" column="21" selection-start="7078" selection-end="7078" vertical-scroll-proportion="0.0" vertical-offset="6009" max-vertical-offset="8942">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/onepage-scroll.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="1" selection-start="1841" selection-end="1841" vertical-scroll-proportion="0.0" vertical-offset="740" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/jquery.onepage-scroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="7327">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="13" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="3162">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="377" column="18" selection-start="13771" selection-end="13771" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7157">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="248" column="50" selection-start="10355" selection-end="10355" vertical-scroll-proportion="0.0" vertical-offset="3847" max-vertical-offset="7293">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="433" column="21" selection-start="7078" selection-end="7078" vertical-scroll-proportion="0.0" vertical-offset="6798" max-vertical-offset="8942">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/onepage-scroll.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="1" selection-start="1841" selection-end="1841" vertical-scroll-proportion="0.0" vertical-offset="740" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/jquery.onepage-scroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="7327">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="13" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="3162">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="373" column="0" selection-start="13731" selection-end="13731" vertical-scroll-proportion="0.0" vertical-offset="5814" max-vertical-offset="7055">
           <folding />
         </state>
@@ -309,9 +515,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="15528" selection-start="15693" selection-end="15693" vertical-scroll-proportion="0.106583074" vertical-offset="0" max-vertical-offset="638">
-          <folding />
-        </state>
+        <state line="4" column="15528" selection-start="15693" selection-end="15693" vertical-scroll-proportion="0.106583074" vertical-offset="0" max-vertical-offset="638" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/callout.jpg">
@@ -321,30 +525,19 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1156" column="7" selection-start="17347" selection-end="17347" vertical-scroll-proportion="0.33333334" vertical-offset="19435" max-vertical-offset="64821">
-          <folding />
-        </state>
+        <state line="1156" column="7" selection-start="17347" selection-end="17347" vertical-scroll-proportion="0.33333334" vertical-offset="19435" max-vertical-offset="64821" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/lib/jquery.onepage-scroll.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7327">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="13" selection-start="1807" selection-end="1807" vertical-scroll-proportion="-0.0" vertical-offset="901" max-vertical-offset="3162">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="377" column="18" selection-start="13771" selection-end="13771" vertical-scroll-proportion="-10.6470585" vertical-offset="5866" max-vertical-offset="7157">
           <folding />
         </state>
       </provider>
@@ -358,16 +551,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/temp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="248" column="50" selection-start="10355" selection-end="10355" vertical-scroll-proportion="-14.192307" vertical-offset="3847" max-vertical-offset="7293">
-          <folding>
-            <element signature="n#style#0;n#footer#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="248" column="50" selection-start="10355" selection-end="10355" vertical-scroll-proportion="0.0" vertical-offset="3847" max-vertical-offset="7293">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="51" selection-start="4585" selection-end="4585" vertical-scroll-proportion="0.0" vertical-offset="1556" max-vertical-offset="7157">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="433" column="21" selection-start="7078" selection-end="7078" vertical-scroll-proportion="0.6493656" vertical-offset="6798" max-vertical-offset="8942">
+        <state line="196" column="1" selection-start="3361" selection-end="3361" vertical-scroll-proportion="0.2926009" vertical-offset="3071" max-vertical-offset="8942">
           <folding />
         </state>
       </provider>
